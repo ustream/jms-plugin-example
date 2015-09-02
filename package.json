@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git-repos.ustream-adm.in:jms/jms-plugin-example.git"
+    "url": "https://github.com/ustream/jms-plugin-example.git"
   },
   "devDependencies": {
     "grunt-release": "latest",
@@ -19,10 +19,6 @@
     "plugin",
     "example"
   ],
-  "publishConfig": {
-    "registry": "http://sjc-npm-cache.ustream.tv:4873",
-    "username": "ustream"
-  },
   "author": "nec@ustream.tv",
   "license": "MIT"
 }
